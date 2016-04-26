@@ -1,0 +1,90 @@
+Dec 13, 2012 11:19:28 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 13, 2012 11:19:28 PM serverPackage.Server run
+INFO: Server listening on port [8008]
+Dec 13, 2012 11:19:28 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8008]
+Dec 13, 2012 11:19:49 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [login]
+Dec 13, 2012 11:19:49 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [courseList]
+Dec 13, 2012 11:19:52 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [videoList]
+Dec 13, 2012 11:20:00 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [questionAdd]
+Dec 13, 2012 11:20:02 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [questionList]
+Dec 13, 2012 11:20:05 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [answerList]
+Dec 13, 2012 11:20:09 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [answerAdd]
+Dec 13, 2012 11:20:10 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [answerList]
+Dec 13, 2012 11:20:17 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [questionList]
+Dec 13, 2012 11:20:20 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.76] requests [logout]
+Dec 13, 2012 11:23:43 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 13, 2012 11:23:43 PM serverPackage.Server run
+INFO: Server listening on port [8008]
+Dec 13, 2012 11:23:43 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8008]
+Dec 13, 2012 11:23:55 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 13, 2012 11:23:55 PM serverPackage.Server run
+INFO: Server listening on port [8008]
+Dec 13, 2012 11:23:55 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8008]
+Dec 13, 2012 11:31:51 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 13, 2012 11:31:51 PM serverPackage.Server run
+INFO: Server listening on port [8009]
+Dec 13, 2012 11:31:51 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8009]
+Dec 13, 2012 11:32:07 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 13, 2012 11:32:07 PM serverPackage.Server run
+INFO: Server listening on port [8010]
+Dec 13, 2012 11:32:07 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8010]
+Dec 28, 2012 8:26:51 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 28, 2012 8:26:51 PM serverPackage.Server run
+INFO: Server listening on port [8012]
+Dec 28, 2012 8:26:51 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8012]
+Dec 28, 2012 9:04:12 PM MessageTypes Server Log Messages
+FINER: ENTRY
+Dec 28, 2012 9:04:12 PM serverPackage.Server run
+INFO: Server listening on port [8008]
+Dec 28, 2012 9:04:12 PM serverPackage.Server run
+INFO: Server Address [0.0.0.0/0.0.0.0:8008]
+Dec 28, 2012 9:05:27 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [login]
+Dec 28, 2012 9:05:27 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [courseList]
+Dec 28, 2012 9:05:30 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [videoList]
+Dec 28, 2012 9:05:53 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [questionAdd]
+Dec 28, 2012 9:05:57 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [questionList]
+Dec 28, 2012 9:05:58 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [questionList]
+Dec 28, 2012 9:06:01 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [answerList]
+Dec 28, 2012 9:06:25 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [answerList]
+Dec 28, 2012 9:06:43 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [answerAdd]
+Dec 28, 2012 9:06:43 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [answerList]
+Dec 28, 2012 9:07:05 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [logout]
+Dec 28, 2012 9:07:17 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [login]
+Dec 28, 2012 9:07:36 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [login]
+Dec 28, 2012 9:08:44 PM serverPackage.ProcessCommand <init>
+INFO: IP address[/192.168.1.72] requests [login]
